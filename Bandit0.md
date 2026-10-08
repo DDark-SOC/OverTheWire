@@ -4,8 +4,8 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 
 <img src="https://i.imgur.com/vtaCwJl.png" height="80%" width="80%" alt="ssh login">
 
-<h1>Bandit Level 0 → Level 1 (Reading File)<h1><br/>
-Level Goal
+Bandit Level 0 → Level 1 (Reading File)<br/>
+Level Goal<br/>
 The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
 
 <img src="https://i.imgur.com/tREokGi.png" height="80%" width="80%" alt="bandit">
