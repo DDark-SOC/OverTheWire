@@ -1,0 +1,7 @@
+Bandit Level 1 → Level 2 (Reading File with Special Characters)<br>
+Level Goal<br>
+The password for the next level is stored in a file called - located in the home directory
+
+<img src="https://i.imgur.com/NVRAlnp.png" height="80%" width="80%" alt="bandit1">
+
+Password: PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
